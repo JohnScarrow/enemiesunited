@@ -4,6 +4,7 @@
   "description": "Minecraft server running on heroku",
   "main": "server.js",
   "scripts": {
+    "start": "LaunchServer.bat",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
